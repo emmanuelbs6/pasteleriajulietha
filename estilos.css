@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #4d3c2b;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #d9fdd3;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.bienvenida {
+    font-size: 1.2em;
+    color: #3e3e3e;
+}
+
+section {
+    padding: 20px;
+}
+
+h2 {
+    color: #4d3c2b;
+}
+
+.producto, .galeria img {
+    display: inline-block;
+    margin: 10px;
+    width: 30%;
+}
+
+.producto img, .galeria img {
+    width: 100%;
+    border: 2px solid #cbb89d;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #f0e6db;
+    text-align: center;
+    padding: 20px;
+}
